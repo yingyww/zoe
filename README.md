@@ -27,3 +27,7 @@ It is the only ballad song in English on my playlist.
 Mirror “Ignited”
 It is an exclusive electronic and dance-pop music in Cantonese.
 
+![COMUS2](https://user-images.githubusercontent.com/99733797/154864999-e924bda6-ccbb-4856-bea7-c584ad88577a.png)
+
+I am still exploring the functions of better visual presentation of my corpus. The graph refers to the lab session where energy, valence and danceability are showing their relevance. The higher the danceability (lighter blue), the closer the average of energy and valence. 
+
