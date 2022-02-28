@@ -31,9 +31,9 @@ It is an exclusive electronic and dance-pop music in Cantonese.
 
 
 ### Frame 1
-
-```{r}
 ![key](https://user-images.githubusercontent.com/99733797/155980717-0844f89f-faf0-4385-b2e2-a861113fbfe2.png)
+```{r}
+
 
 ```
 
@@ -42,10 +42,10 @@ It is an exclusive electronic and dance-pop music in Cantonese.
 The majority of the tracks are mainly in G or C pitch class, while tracks in E and B pitch rank the lowest count within the playlist
 
 ### Frame 2 
-
+![danceener](https://user-images.githubusercontent.com/99733797/155980630-842c622e-06b5-4915-8728-b2ea01879583.png)
 ```{r}
 
-![danceener](https://user-images.githubusercontent.com/99733797/155980630-842c622e-06b5-4915-8728-b2ea01879583.png)
+
 
 ```
 
