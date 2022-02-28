@@ -27,7 +27,39 @@ It is the only ballad song in English on my playlist.
 Mirror “Ignited”
 It is an exclusive electronic and dance-pop music in Cantonese.
 
-![COMUS2](https://user-images.githubusercontent.com/99733797/154864999-e924bda6-ccbb-4856-bea7-c584ad88577a.png)
+# Analysis
 
-I am still exploring the functions of better visual presentation of my corpus. The graph refers to the lab session where energy, valence and danceability are showing their relevance. The higher the danceability (lighter blue), the closer the average of energy and valence. 
+
+### Frame 1
+
+```{r}
+
+```
+
+*** 
+
+The majority of the tracks are mainly in G or C pitch class, while tracks in E and B pitch rank the lowest count within the playlist
+
+### Frame 2 {data-commentary-width=400}
+
+```{r}
+```
+
+*** 
+
+Tracks are mainly concentrated at higher energy to medium danceability. Tracks with Time signature 4 is common.
+
+
+
+
+
+
+
+
+# Discussion
+
+
+### Frame 1
+
+
 
