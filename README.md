@@ -40,7 +40,7 @@ It is an exclusive electronic and dance-pop music in Cantonese.
 
 The majority of the tracks are mainly in G or C pitch class, while tracks in E and B pitch rank the lowest count within the playlist
 
-### Frame 2 {data-commentary-width=400}
+### Frame 2 
 
 ```{r}
 ```
