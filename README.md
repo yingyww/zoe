@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Computational Musicology -- Zoe Wong 2022"
+=======
+title: "Computational Analysis on my music consumption"
+>>>>>>> 6fd8d6562ae007d01fb6d9b7549e9ef1e2758dc4
 output: 
   flexdashboard::flex_dashboard:
     storyboard: true
