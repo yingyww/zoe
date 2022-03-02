@@ -1,4 +1,14 @@
-# zoe
+---
+title: "Computational Musicology -- Zoe Wong 2022"
+output: 
+  flexdashboard::flex_dashboard:
+    storyboard: true
+    
+---
+
+https://open.spotify.com/playlist/5Icv4PceG8IB7AiPqSJmNR?si=04d0acbb2d854eee
+
+# Introduction
 
 In this course, I propose a computational analysis of my personal playlist on Spotify. My pocket playlist comprises disco, dance-pop, and sentimental ballads, which I have been accumulating since November 2020. The collection of these songs is solely influenced by my YouTube explore and radio shows. The size of my corpus is around 90 songs in the playlist from various genres, such as Korean, English, Mandarin, Cantonese, Taiwanese, and Japanese. The diversity of my favourites is inspirational to my project and I hope to understand the mechanism behind my choice.
 Most of the songs are the title of their album, in other words, the default song that producers design. My playlist possesses a few repetitions of several artists, like The Weeknd, Kylie Minogue, Wayne Huang, and Caizi; others are mainly independent, only 1 to 3 songs of each appear on my playlist. The dominating music genres are disco-pop and dance-pop, with variations among different languages. Each song stands out but connects each with the combination of its genre and languages, and this project aims to evaluate its similarities and patterns.
